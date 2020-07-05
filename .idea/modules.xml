@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desafio.iml" filepath="$PROJECT_DIR$/.idea/modules/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desafio_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Desafio_main.iml" group="Desafio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desafio_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Desafio_test.iml" group="Desafio" />
+    </modules>
+  </component>
+</project>

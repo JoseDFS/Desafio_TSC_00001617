@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Desafio">
+    <output-path>$PROJECT_DIR$/out/artifacts/Desafio</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.example.demo.app.MyApp" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Desafio.jar">
+        <element id="module-output" name="Desafio" />
+      </element>
+    </root>
+  </artifact>
+</component>
